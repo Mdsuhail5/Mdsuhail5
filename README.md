@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mdsuhail5
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on various projects.
+- 👀 Engineer by Passion
+- 🌱 Learning different technologies to build solutions for real-world problems.
 - 📫 How to reach me? you can reach me on my github page or my twitter or instagram handle
 
 <!---
